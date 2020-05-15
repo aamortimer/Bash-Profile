@@ -11,7 +11,7 @@ alias hideHidden='defaults write com.apple.finder AppleShowAllFiles -boolean fal
 ### Commands for OSX 10.8 and prior
 #alias showHidden='defaults write com.apple.finder AppleShowAllFiles -boolean true ; killall Finder'
 #alias hideHidden='defaults write com.apple.finder AppleShowAllFiles -boolean false ; killall Finder'
-
+alias icloud="cd /Users/AMortimer/Library/Mobile\ Documents/com~apple~CloudDocs/"
 
 ## Web Development
 alias apacheEdit='edit /etc/httpd/httpd.conf'      # apacheEdit:       Edit httpd.conf
